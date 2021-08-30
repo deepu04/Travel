@@ -1,4 +1,4 @@
-# Travel
-DBMS Project where travel records of commuters are maintained.
-React JS - Front end
-Node JS - Server
+A Database which collects the Travel Record of the commuters (Recordsinclude Mode of Travel, Travel Duration etc )
+MYSQL Database
+JS - Front End
+Node JS - Back End
